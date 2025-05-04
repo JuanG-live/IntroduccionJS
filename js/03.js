@@ -1,4 +1,4 @@
-// TIPOS DE DATOS
+// JavaScript Data Types
 
 /* UNDEFINED - This type is used to represent a variable that has been declared but has not yet been assigned a value.
 let client
