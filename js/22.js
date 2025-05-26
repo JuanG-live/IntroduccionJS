@@ -1,4 +1,4 @@
-// Optional Chaining ' ? '
+// Optional Chaining ' ? ' -> Access properties without checking if they exist. 
 const student = {
     namee: 'Juan',
     subject: 'Programming',
