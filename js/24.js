@@ -1,7 +1,14 @@
-import { add, subtract } from './function.js'
+import { add, subtract, multiply, divide } from './function.js'
 
-const result = add(1,3)
-console.log(result)
+const resultAdd = add(1,3)
+const resultSubtract = subtract(4,1)
+const resultMultiply = multiply(2,2)
+const resultDivide = divide(4,2)
 
-const resultTwo = subtract(4,1)
-console.log(resultTwo)
+console.log(resultAdd)
+console.log(resultSubtract)
+console.log(resultMultiply)
+console.log(resultDivide)
+
+
+
